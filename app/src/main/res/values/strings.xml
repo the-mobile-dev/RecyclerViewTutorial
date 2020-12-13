@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Recycler View Tutorial</string>
+
+<!--    Transport option tiles    -->
+    <string name="bus">Bus</string>
+    <string name="tractor">Tractor</string>
+    <string name="bike">Bike</string>
+    <string name="boat">Boat</string>
+    <string name="subway">Subway</string>
+
+    <string name="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tum mihi Piso: Quid ergo? Primum quid tu dicis breve? Ut alios omittam, hunc appello, quem ille unum secutus est.</string>
 </resources>

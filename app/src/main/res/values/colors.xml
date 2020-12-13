@@ -8,4 +8,5 @@
     <color name="orange_dark">#FD6600</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="recycler_view_background">#E9E9E9</color>
 </resources>
